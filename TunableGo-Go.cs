@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-// This class provides a simple virtual hand technique
+// This class provides a novel Go-Go variant
 // Directions:
 // 		1. Attach to the GameObject that will be used for collision detection
 //		2. Ensure that GameObject is encapsulated in an empty GameObject with a clean transform
