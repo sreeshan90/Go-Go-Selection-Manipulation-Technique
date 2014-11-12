@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 6fd4901c479734f0f8ea6d26310cd730
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: jnt_l_index04
+    100002: jnt_l_middle04
+    100004: jnt_l_pinky04
+    100006: jnt_l_ring04
+    100008: jnt_l_thumb04
+    100010: LeftHandJoints
+    100012: LeftHandMesh
+    100014: //RootNode
+    100016: rig_l_index01
+    100018: rig_l_index02
+    100020: rig_l_index03
+    100022: rig_l_middle01
+    100024: rig_l_middle02
+    100026: rig_l_middle03
+    100028: rig_l_palm01
+    100030: rig_l_pinky01
+    100032: rig_l_pinky02
+    100034: rig_l_pinky03
+    100036: rig_l_ring01
+    100038: rig_l_ring02
+    100040: rig_l_ring03
+    100042: rig_l_thumb01
+    100044: rig_l_thumb02
+    100046: rig_l_thumb03
+    100048: rig_l_wrist01
+    400000: jnt_l_index04
+    400002: jnt_l_middle04
+    400004: jnt_l_pinky04
+    400006: jnt_l_ring04
+    400008: jnt_l_thumb04
+    400010: LeftHandJoints
+    400012: LeftHandMesh
+    400014: //RootNode
+    400016: rig_l_index01
+    400018: rig_l_index02
+    400020: rig_l_index03
+    400022: rig_l_middle01
+    400024: rig_l_middle02
+    400026: rig_l_middle03
+    400028: rig_l_palm01
+    400030: rig_l_pinky01
+    400032: rig_l_pinky02
+    400034: rig_l_pinky03
+    400036: rig_l_ring01
+    400038: rig_l_ring02
+    400040: rig_l_ring03
+    400042: rig_l_thumb01
+    400044: rig_l_thumb02
+    400046: rig_l_thumb03
+    400048: rig_l_wrist01
+    4300000: LeftHandMesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: LeftHandMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
